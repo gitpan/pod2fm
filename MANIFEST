@@ -1,4 +1,4 @@
 MANIFEST
 Makefile.PL
-README
 pod2fm
+template.mif
